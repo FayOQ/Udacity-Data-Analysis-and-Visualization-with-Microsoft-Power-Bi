@@ -1,0 +1,18 @@
+PKCustomerID	Customer	CustType	City	State/Province	Country
+BC100	Saanich Goods	Grocery Store	Victoria	British Columbia	Canada
+BC101	Blokes Block	Grocery Store	Vancouver	British Columbia	Canada
+BC102	Queens Arms Store	Grocery Store	Victoria	British Columbia	Canada
+BC103	McDougal's	Distributor	Vancouver	British Columbia	Canada
+BC105	Black Bear Market	Grocery Store	Victoria	British Columbia	Canarda
+BC109	Tea's What Cures You	Distributor	Victoria	British Columbia	Canada
+BC110	The Best Teas	Distributor	Victoria	British Columbia	Canada
+BC111	Mockinbird Lane Market	Grocery Store	Surry	British Columbia	Canada
+WA001	Cash Purchase	SSTC Restaurant	Redmond	Washington	United States
+WA003	Unique Foods	Grocery Store	Tacoma	Washington	United States
+WA004	Moe's Market	Grocery Store	Tacoma	Washington	United States
+WA005	The Well Shoppe	Barn	Seattle	Washington	United States
+WA006	Bacchus' Best	Distributor	Everett	Washington	United States
+WA007	Read n' Tea	Grocery Store	Everett	Washington	United States
+WA012	Puget's Finest Foods	Grocery Store	Seattle	Washington	United States
+WA014	Teas & Sodas Ha Ha	Distributor	Tacoma	Washington	United States
+WA055	Rainier & Co.	Distributor	Seattle	Washington	United States
